@@ -1,12 +1,11 @@
+👋 ola eu sou kauane
 
- # Hi there, I'm Nome 👋
-
-**💻 Software Engineer**  
+**💻 estudando**  
 - estudando git hub
 - naci no brasil
 - leitora 
 
-**🎯 Interests**  
+**🎯 Interesses**  
 - comer 
 - assistir serie 
 - escutar musicas do rebelde 
