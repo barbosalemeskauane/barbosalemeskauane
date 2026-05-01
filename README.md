@@ -18,4 +18,4 @@ Coloque
   <img src="https://skillicons.dev/icons?i=ts,js,html,css" height="40" />
 </div>
 
-<img src="https://tr.wikipedia.org/wiki/Harry_Potter_ve_Felsefe_Ta%C5%9F%C4%B1_%28film%29"/>
+<img src="https://upload.wikimedia.org/wikipedia/tr/e/e0/Harry_Potter_and_the_Sorcerer%27s_Stone_%28film%2C_2001%29.jpg"/>
