@@ -8,7 +8,7 @@
 **🎯 Interesses**  
 - comer 
 - assistir serie 
-- escutar musicas do rebelde 
+- escutar musicas do rebelde
 - ler livros 
 
 Coloque
