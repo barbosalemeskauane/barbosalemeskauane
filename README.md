@@ -20,4 +20,4 @@ Coloque
 
 <img src="https://upload.wikimedia.org/wikipedia/tr/e/e0/Harry_Potter_and_the_Sorcerer%27s_Stone_%28film%2C_2001%29.jpg"/>,
 
-<img src="https://rebelde.fandom.com/pt-br/wiki/Mia_Colucci"/>,
+
